@@ -1,5 +1,7 @@
-### Hi there 👋
+## Vinícius Sales
 
+My contact addresses, or if you want to know me better:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20-4040ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinícius-sales-502ba5207/)](https://www.linkedin.com/in/vinícius-sales-502ba5207/) [ ![WhasApp Badge](https://img.shields.io/badge/-WhatsApp-6ae06f?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588988595701&text=Ol%C3%A1%2C%20sou%20o%20Vin%C3%ADcius%2C%20em%20que%20posso%20te%20ajudar%3F)](https://api.whatsapp.com/send?phone=5588988595701&text=Ol%C3%A1%2C%20sou%20o%20Vin%C3%ADcius%2C%20em%20que%20posso%20te%20ajudar%3F) [ ![Outlook Badge](https://img.shields.io/badge/-Outlook-4040ff?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:viniciussales.dev@outlook.com)](mailto:viniciussales.dev@outlook.com) [ ![Instagram Badge](https://img.shields.io/badge/-Instagram-d300c6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/niciuoss/)](https://www.instagram.com/niciuoss/)
 <!--
 **niciuoss/niciuoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
